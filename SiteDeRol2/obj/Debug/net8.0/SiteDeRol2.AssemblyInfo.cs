@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SiteDeRol2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+accb24bd48bfb18c511d78d3642372ef6172d460")]
 [assembly: System.Reflection.AssemblyProductAttribute("SiteDeRol2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SiteDeRol2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
